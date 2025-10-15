@@ -8,11 +8,12 @@
  <img src="https://i.postimg.cc/ydJH2DVL/IMG-20251008-WA0010.jpg" width="300" height="600" />
  <img src="https://i.postimg.cc/ZRQQNjzw/IMG-20251008-WA0008.jpg" width="300" height="600" />
  <img src="https://i.postimg.cc/W3yyZScX/IMG-20251008-WA0007.jpg" width="300" height="600" />
- <img src="https://i.postimg.cc/JnFFXKCx/IMG-20251008-WA0006.jpg" width="300" height="600" />
+ <img src="" width="300" height="600" />
 
 
  
 </div>
+
 
 
 
